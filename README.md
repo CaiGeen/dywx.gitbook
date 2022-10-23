@@ -1,6 +1,8 @@
 # 《得意忘形》精校文字稿
 
-以[张潇雨为方法](https://pan.baidu.com/s/1HboXmZ7N0rFr66Y45HrODw?pwd=a5ej)系列的第 3 个作品「得意忘形播客转文字稿」正式开张。
+以[张潇雨为方法](https://pan.baidu.com/s/1HboXmZ7N0rFr66Y45HrODw?pwd=a5ej)系列的第 3 个作品「得意忘形播客转文字稿」，持续更新中。
+
+
 
 #### 更新日志：
 
@@ -12,10 +14,10 @@
 
 2022-09-09——[#61：场上没有别人](61.md)
 
+2022-10-23——[#26：人际关系中的三个永恒公理](26.md)
+
+
+
 {% hint style="info" %}
 附《得意忘形》全集[机转文字稿](https://pan.baidu.com/s/1S7UHW\_Im1ZM7MleIpMPkvw?pwd=puwh)，如果你想参与精校或任何建议，请联系我（微信：ffeels）
-{% endhint %}
-
-{% hint style="success" %}
-链接: https://pan.baidu.com/s/1S7UHW\_Im1ZM7MleIpMPkvw?pwd=puwh 提取码: puwh
 {% endhint %}

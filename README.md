@@ -18,6 +18,10 @@
 
 
 
+{% hint style="success" %}
+由[涂俊杰](https://nextjs-notion-starter-kit-peach-seven.vercel.app/)负责精校，首发于知识星球「[84000](https://t.zsxq.com/06fqF6uBy)」。
+{% endhint %}
+
 {% hint style="info" %}
-附《得意忘形》全集[机转文字稿](https://pan.baidu.com/s/1S7UHW\_Im1ZM7MleIpMPkvw?pwd=puwh)，如果你想参与精校或任何建议，请联系我（微信：ffeels）
+附《得意忘形》[机转文字稿](https://pan.baidu.com/s/1S7UHW\_Im1ZM7MleIpMPkvw?pwd=puwh)，如果你想参与精校或任何建议，请联系我（微信：ffeels）
 {% endhint %}

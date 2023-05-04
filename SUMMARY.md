@@ -6,3 +6,8 @@
 * [#26：人际关系中的三个永恒公理](26.md)
 * [#50：你听见宇宙发来的「心想事成」了吗？](50.md)
 * [#61：场上没有别人](61.md)
+* [No.60：感受与生命合一中的爱的扩张](no.60-gan-shou-yu-sheng-ming-he-yi-zhong-de-ai-de-kuo-zhang.md)
+* [#11：不如我们停止自我攻击，看看会发生什么？](11-bu-ru-wo-men-ting-zhi-zi-wo-gong-ji-kan-kan-hui-fa-sheng-shi-mo.md)
+* [No.41：死亡是凉爽的夜晚](no.41-si-wang-shi-liang-shuang-de-ye-wan.md)
+* [No.57：当你准备好了，你就准备好了](no.57-dang-ni-zhun-bei-hao-le-ni-jiu-zhun-bei-hao-le.md)
+* [#20：「破题」而不是「答题」——Ask Me Anything 特别节目](20-po-ti-er-bu-shi-da-ti-ask-me-anything-te-bie-jie-mu.md)

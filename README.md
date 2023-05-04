@@ -33,5 +33,5 @@
 {% endhint %}
 
 {% hint style="info" %}
-附《得意忘形》[机转文字稿](https://pan.baidu.com/s/1S7UHW\_Im1ZM7MleIpMPkvw?pwd=puwh)，如果你想参与精校或任何建议，请联系我（微信：ffeels）
+因人力有限，所以为「得意忘形 GPT」增加了粗校版，相比精校，内容精确度降低，比如「他她它」使用错误，少了额外知识点批注等等，如果你想参与精校或任何建议，请联系我（微信：ffeels），附《得意忘形》[机转文字稿](https://pan.baidu.com/s/1S7UHW\_Im1ZM7MleIpMPkvw?pwd=puwh)。
 {% endhint %}

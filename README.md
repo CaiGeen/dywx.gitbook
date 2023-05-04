@@ -16,10 +16,20 @@
 
 2022-10-23——[#26：人际关系中的三个永恒公理](26.md)
 
+（粗校）2023-04-22——No.60：感受与生命合一中的爱的扩张
+
+（粗校）2023-04-23——#11：不如我们停止自我攻击，看看会发生什么？
+
+（粗校）2023-04-25——No.41：死亡是凉爽的夜晚
+
+（粗校）2023-04-27——No.57：当你准备好了，你就准备好了
+
+（粗校）2023-04-29——#20：「破题」而不是「答题」——Ask Me Anything 特别节目
+
 
 
 {% hint style="success" %}
-由[涂俊杰](https://nextjs-notion-starter-kit-peach-seven.vercel.app/)负责精校，首发于知识星球「[84000](https://t.zsxq.com/06fqF6uBy)」。
+无标注则由 [@](https://nextjs-notion-starter-kit-peach-seven.vercel.app/)[涂俊杰](https://nextjs-notion-starter-kit-peach-seven.vercel.app/) 校对，首发于知识星球「[84000](https://t.zsxq.com/06fqF6uBy)」。
 {% endhint %}
 
 {% hint style="info" %}

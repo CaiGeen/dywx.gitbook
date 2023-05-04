@@ -4,7 +4,7 @@
 
 
 
-我和 [84000](https://t.zsxq.com/0cjuUrXYj) 星球同学 @XFFXFF 经过了各种各样的努力，上线了「[得意忘形 GPT](https://dywx-gpt.netlify.app/)」，这是个以《得意忘形》内容为基础的 AI 问答库，你向它提问，它会生成回答并附上相关链接（如下图），欢迎来玩儿 😉
+我和 [84000](https://t.zsxq.com/0cjuUrXYj) 星球同学 @XFFXFF 经过各种各样的努力，上线了「[得意忘形 GPT](https://dywx-gpt.netlify.app/)」，这是个以《得意忘形》内容为基础的 AI 问答库，你向它提问，它会生成回答并附上相关链接（如下图），欢迎来玩儿 😉
 
 <figure><img src=".gitbook/assets/Fgkq0GOxXYDUsw0UXilcN-Jlwd02.png" alt="" width="563"><figcaption></figcaption></figure>
 

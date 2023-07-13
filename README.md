@@ -4,9 +4,11 @@
 
 
 
-我和 [84000](https://t.zsxq.com/0cjuUrXYj) 星球同学 @XFFXFF 经过各种各样的努力，上线了「[得意忘形 GPT](https://dywx-gpt.netlify.app/)」，这是个以《得意忘形》内容为基础的 AI 问答库，你向它提问，它会生成回答并附上相关链接（如下图），欢迎来玩儿 😉
+我和 [84000](https://t.zsxq.com/0cjuUrXYj) 星球同学 @XFFXFF 经过各种各样的努力，上线了「[得意忘形 GPT](https://dywx-gpt.netlify.app/)」，这是个以《得意忘形》内容为基础的 AI 问答库，你向它提问，它会生成回答并附上相关链接（如下图）。
 
-<figure><img src=".gitbook/assets/Fgkq0GOxXYDUsw0UXilcN-Jlwd02.png" alt="" width="563"><figcaption></figcaption></figure>
+抱歉，现在暂停营业啦 😜
+
+<figure><img src=".gitbook/assets/Fgkq0GOxXYDUsw0UXilcN-Jlwd02.png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -31,6 +33,8 @@
 （粗校）2023-04-27——[No.57：当你准备好了，你就准备好了](57.md)
 
 （粗校）2023-04-29——[#20：「破题」而不是「答题」——Ask Me Anything 特别节目](20.md)
+
+（由 @杨兴馨 粗校）2023-07-13——No.64：忆起达克赛德
 
 
 
